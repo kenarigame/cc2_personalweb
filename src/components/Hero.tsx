@@ -1,5 +1,3 @@
-import Portfolio from "./portfolios";
-
 function Hero() {
   return (
     <section className="min-h-screen flex items-center justify-center bg-slate-950">

@@ -7,7 +7,6 @@ import Portfolio from "../components/portfolios";
 import Blog from "../components/blogs";
 import Footer from "../components/footer";
 
-
 function Homepage() {
   return (
     <>
